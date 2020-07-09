@@ -1,0 +1,44 @@
+.container{
+    margin-top: 20px ;
+    text-align: center;
+    width: 100px;
+    margin-left: 200px !important;
+}
+#cl{
+    border: 2px solid black ;
+}
+.btn1{
+  
+    width: 10% ;
+    border-radius: 15px;
+    background-color: sandybrown; 
+    color: #fff;
+    
+}
+
+.btn2{
+    
+    width: 10% ;
+    border-radius: 15px;
+    background-color: darkorchid; 
+    color: #fff;
+    
+}
+.btn3{
+    
+    width: 10% ;
+    border-radius: 15px;
+    background-color: sienna; 
+    color: #fff;
+    
+}
+.button{
+margin-top: 20px;
+text-align: center;
+}
+.heading{
+    text-align: center;
+    margin-top: 15px;
+}
+
+  
